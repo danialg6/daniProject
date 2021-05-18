@@ -30,9 +30,11 @@ return Math.ceil(x);
  function main(){
      console.log("main method")
  }
-
-
 function printName(name){
     console.log(name)
+}
+
+function drawCircle(){
+    console.log("draw circle")
 }
 
