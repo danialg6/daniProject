@@ -27,6 +27,9 @@ return Math.ceil(x);
  function volume(x,y,h){
      return x*y*h;
  }
+ function main(){
+     console.log("main method")
+ }
 
 
 function printName(name){
