@@ -42,7 +42,9 @@ function drawCircle(){
 function redda(name){
     console.log(name);
 }
-
+function idNumber(id){
+return id;
+}
 
 
 
