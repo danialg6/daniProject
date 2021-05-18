@@ -34,7 +34,15 @@ function printName(name){
     console.log(name)
 }
 
+
 function drawCircle(){
     console.log("draw circle")
 }
+
+function redda(name){
+    console.log(name);
+}
+
+
+
 
