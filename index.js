@@ -24,3 +24,6 @@ function ceil(x){
 return Math.ceil(x);
 }
 
+function printName(name){
+    console.log(name)
+}
