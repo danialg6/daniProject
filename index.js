@@ -11,3 +11,6 @@ function sub(x,y) {
 function floor(x){
     return Math.floor(x)
 }
+function area(x,y){
+    return x*y;
+}
