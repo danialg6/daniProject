@@ -45,6 +45,9 @@ function redda(name){
 
 function localRepo(){
     console.log("local repo")
+function onlineRepo(){
+
+console.log("online repo")
 }
 
 
