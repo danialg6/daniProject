@@ -8,3 +8,6 @@ function div(x,y){
 function sub(x,y) {
     return x-y;
 }
+function floor(x){
+    return Math.floor(x)
+}
