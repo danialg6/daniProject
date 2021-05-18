@@ -23,6 +23,13 @@ function sub(x,y) {
 function ceil(x){
 return Math.ceil(x);
 }
+
  function volume(x,y,h){
      return x*y*h;
  }
+
+
+function printName(name){
+    console.log(name)
+}
+
