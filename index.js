@@ -42,8 +42,14 @@ function drawCircle(){
 function redda(name){
     console.log(name);
 }
+function localRepo(){
+    console.log("local repo")
+function onlineRepo(){
+
+
 function idNumber(id){
 return id;
+
 }
 
 
