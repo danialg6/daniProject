@@ -38,3 +38,6 @@ function drawCircle(){
     console.log("draw circle")
 }
 
+function redda(name){
+    console.log(name);
+}
