@@ -27,3 +27,6 @@ return Math.ceil(x);
 function printName(name){
     console.log(name)
 }
+function redda(name){
+    console.log(name);
+}
