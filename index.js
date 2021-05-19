@@ -54,5 +54,7 @@ return id;
 function last(){
     console.log("last one")
 }
-
+function display(){
+    console.log("All things")
+}
 
