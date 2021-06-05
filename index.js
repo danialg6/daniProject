@@ -56,5 +56,8 @@ function display(){
     console.log("All things")
 }
 
+    function test(){
+    return "test"
+    }
 
 
