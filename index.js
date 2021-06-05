@@ -39,6 +39,8 @@ function printName(name){
 function redda(name){
     console.log(name);
 }
-=======
+function redda(){
+    return "redda"}
+
 
 
